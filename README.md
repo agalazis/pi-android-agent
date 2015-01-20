@@ -3,7 +3,7 @@ pi-android-agent
 
 pi-web-agent for Android
 
-The project is a driver for the pi-web-agent API. The plan is to release it in October 2014.
+The project is a driver for the pi-web-agent API. The plan is to release it in July 2015.
 
 Requirements:
 
